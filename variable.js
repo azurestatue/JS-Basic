@@ -126,6 +126,6 @@
 // key와 value 구분, {} 기호로 표시
 // 값 참조에 경우 key를 사용, index라는 순서 개념이 없으며, key를 숫자로 하지는 않음(index와 혼동 될수 있기 때문)
 
-var dic = {"class" :5, "age":18, "name": "Kim" };
-console.log(dic["class"])
+// var dic = {"class" :5, "age":18, "name": "Kim" };
+// console.log(dic["class"])
 
